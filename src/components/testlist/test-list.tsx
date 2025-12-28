@@ -33,7 +33,7 @@ const useStyles = makeStyles(() => ({
   },
   tabs: {
     minWidth: "100%",
-    borderRight: `1px solid #00000`,
+    borderRight: `1px solid #000000`,
     marginTop: 10,
   },
   url: {
